@@ -1,2 +1,2 @@
 hello second
-append one line 
+append one line
